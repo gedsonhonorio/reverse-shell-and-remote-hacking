@@ -1,12 +1,12 @@
 # Comandos CMD de Windows para Hacking Remoto
 <!-- hide -->
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/buffer-overflow-exploit-project/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/commands-for-remote-hacking/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/buffer-overflow-exploit-project/blob/main/README.es.md)*
+*Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/commands-for-remote-hacking/blob/main/README.es.md)*
 <!-- endhide -->
 
 

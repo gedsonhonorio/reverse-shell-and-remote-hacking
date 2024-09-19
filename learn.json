@@ -1,0 +1,25 @@
+{
+    "language": "powershell",
+    "title": {
+        "us": "Windows CMD Commands for Remote Hacking",
+        "es": "Comandos Remotos de Windows para Hackear"
+    },
+    "slug": "remote-windows-commands-for-remote-hacking",
+    "description": {
+        "us": "Learn how to execute basic and administrative Windows commands remotely through a reverse shell, simulating a hacking attack from Kali Linux to Windows 10.",
+        "es": "Aprende cómo ejecutar comandos básicos y administrativos de Windows de forma remota a través de una reverse shell, simulando un ataque de hacking desde Kali Linux hacia Windows 10."
+    },
+    "repository": "https://github.com/breatheco-de/commands-for-remote-hacking",
+    "duration": 2,
+    "difficulty": "intermediate",
+    "projectType": "tutorial",
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "skills": ["cybersecurity", "hacking", "windows-commands"],
+    "graded": true,
+    "editor": {
+        "version": "3.1.23"
+    },
+    "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+    }
+}
