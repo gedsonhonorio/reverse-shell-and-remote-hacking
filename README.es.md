@@ -6,12 +6,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/commands-for-remote-hacking/blob/main/README.es.md)*
-<!-- endhide -->
-
-
-<!-- hide -->
-
+*Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/reverse-shell-and-remote-hacking/blob/main/README.es.md)*
 
 ### Antes de empezar...
 
