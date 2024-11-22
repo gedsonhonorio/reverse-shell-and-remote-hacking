@@ -17,5 +17,8 @@
     "graded": false,
     "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
-    }
+    },
+    "delivery": {
+		    "formats": ["no_delivery"]
+	  }
 }
